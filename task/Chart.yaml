@@ -1,0 +1,15 @@
+apiVersion: v2
+name : App-Chart
+description: My Helm Cart for Kube
+type: application
+version: 0.1.1
+appVersion: 1.0.2
+
+keywords:
+   - apache
+   - http
+   - https
+   - testtask
+
+maintainers:
+    - name : Anatoliy

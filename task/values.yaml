@@ -1,0 +1,4 @@
+containet:
+   image: gas/k8sphp:latest
+
+replicaCount: 2
