@@ -52,7 +52,7 @@ This EKS will be deployed in the default VPC of my account.
 First, I check in my AWS console, the subnet of the default VPC.
 <br>
 
-Created this file ![eks.tf](https://github.com/Reward2020/TestTask/blob/master/terra/eks.tf)
+Created this file: [eks.tf](https://github.com/Reward2020/TestTask/blob/master/terra/eks.tf)
 
 <br>
 
